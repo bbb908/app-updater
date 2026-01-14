@@ -1,8 +1,0 @@
---Auto Update--
-
-Some anti viruses may think it is a IDP.GENERIC or something else
-beacause it accsesses programmes in able to upgrade them.
-If you are suspicious about it it is a .bat file so you can
-look at the code and see it isn't a virus if you don't know
-how to code in bat tell someone if you know they can code in it
-or look on youtube if it is on there.
